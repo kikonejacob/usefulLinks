@@ -1,7 +1,7 @@
 # usefulLinks
 
 
-#Bash Scripting
+# Bash Scripting
 
 https://ryanstutorials.net/bash-scripting-tutorial/
 
